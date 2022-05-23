@@ -1,4 +1,4 @@
-# Personal sirte
+# Personal site
 
 ## Learning frintend from scrimba
 
